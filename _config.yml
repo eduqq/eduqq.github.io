@@ -33,16 +33,9 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0000-0003-0919-326X"
+  researchgate     : https://scholar.google.com/citations?hl=en&user=Ii9EcaMAAAAJ&view_op=list_works&sortby=pubdate
   scopus           : # URL
   zotero           : # URL
 
