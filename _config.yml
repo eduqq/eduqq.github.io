@@ -33,7 +33,7 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  googlescholar    : "citations?user=li9EcaMAAAAJ&hl=en&oi=ao"
+  googlescholar    : https://scholar.google.com/citations?user=li9EcaMAAAAJ
   orcid            : "0000-0003-0919-326X"
   researchgate     : https://www.researchgate.net/profile/Eduardo_Alves7
   scopus           : # URL
